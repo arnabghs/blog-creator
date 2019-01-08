@@ -1,0 +1,24 @@
+.heading_class {
+	text-align: center;
+	font-size: 50px;
+	clear: both;
+}
+
+.description_class {
+	text-align: center;
+	font-size: 30px;
+	clear: both;
+}
+
+.author_class {
+	font-size: 20px;
+}
+
+.date_class {
+	font-size: 20px;
+	float: right;
+}
+
+.body_class {
+	background-image: url("../images/paris.jpg");
+}
